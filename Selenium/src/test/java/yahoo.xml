@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="googletest">
+    <classes>
+      <class name="day4.googletest"/>
+    </classes>
+  </test> 
+  
+  <test name="yahooTest">
+  <classes>
+  <class name="day4.yahootest"/>
+  </classes>
+  </test>
+</suite>
